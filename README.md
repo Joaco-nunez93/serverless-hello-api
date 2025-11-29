@@ -8,6 +8,7 @@
 
 [![AWS](https://img.shields.io/badge/AWS-CDK-orange?style=for-the-badge&logo=amazonaws)](https://aws.amazon.com/cdk/)
 [![Lambda](https://img.shields.io/badge/AWS-Lambda-orange?style=for-the-badge&logo=awslambda)](https://aws.amazon.com/lambda/)
+[![Apigateway](https://img.shields.io/badge/AWS-Lambda-orange?style=for-the-badge&logo=awslambda)](https://aws.amazon.com/apigateway/)
 [![Node.js](https://img.shields.io/badge/Node.js-20.x-339933?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/)
 
 </div>
