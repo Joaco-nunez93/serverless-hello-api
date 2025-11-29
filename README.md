@@ -4,7 +4,7 @@
 
 <img src="https://compote.slate.com/images/2119ff95-86f2-4546-a8fd-7b70ec58c9c6.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=370" alt="AWS Serverless" width="600"/>
 
-### Proyecto serverless construido con **AWS CDK** que implementa un pipeline automático de procesamiento de imágenes utilizando **Amazon S3**, **AWS Lambda**, y **Sharp**.
+### Proyecto serverless construido con **AWS CDK (Cloud Development Kit)** que demuestra la creación de una API REST utilizando **API Gateway** con integraciones **Mock** y **Lambda**.
 
 [![AWS](https://img.shields.io/badge/AWS-CDK-orange?style=for-the-badge&logo=amazonaws)](https://aws.amazon.com/cdk/)
 [![Lambda](https://img.shields.io/badge/AWS-Lambda-orange?style=for-the-badge&logo=awslambda)](https://aws.amazon.com/lambda/)
@@ -14,8 +14,6 @@
 </div>
 
 ---
-
-Proyecto serverless construido con **AWS CDK (Cloud Development Kit)** que demuestra la creación de una API REST utilizando **API Gateway** con integraciones **Mock** y **Lambda**.
 
 ## 📋 Overview
 
